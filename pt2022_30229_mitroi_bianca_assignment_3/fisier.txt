@@ -1,0 +1,9 @@
+
+Order id: 7
+Client name: Brecan Cecil
+Client address: brecanCecil@mail.com
+a cumparat 3
+din produsul 
+Product name: creion Pelikan
+Product price: 2.0
+la pretul de 6.0
